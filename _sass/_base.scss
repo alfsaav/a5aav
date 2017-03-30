@@ -1,16 +1,18 @@
 /**
  * Base Variables
  */
-$font-header: 'Space Mono', monospace;
-$font-body: 'Inconsolata', monospace;
-$font-post: 'Lora', serif;
+$font-header: 'niveau-grotesk', helvetica, arial, sans-serif;
+$font-body: 'niveau-grotesk', helvetica, arial, sans-serif;
+$font-post: 'livory', serif;
 
-$color-alpha: #9f8f68;
-$color-alpha--light: #f5f3ef;
+$color-alpha: #2A5DBF;
+$color-alpha--light: #14ADBE;
 
-$color-black: #0a0a0a;
-$color-grey: #f8f9f9;
+$color-black: #002933;
+$color-grey: #ddd;
 $color-white: #fff;
+
+$color-accent: #F44A76;
 
 $mq-xs: 20em;
 $mq-sm: 30em;
@@ -103,7 +105,7 @@ p {
 }
 
 a {
-  color: $color-black;
+  color: $color-alpha;
   text-decoration: none;
   transition: color 0.4s ease-in-out;
 

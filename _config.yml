@@ -1,21 +1,21 @@
 # Site settings
-email: 
+email: "alfsaav@gmail.com"
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
+title: Console 84
+description: "A sexy developer microblog"
 url: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
+name: "Alfredo Saavedra"
 profile_img: 
-profile: 
+profile: "Just a dude that likes JavaScript and comp-scy"
 social:
   github: 
 
